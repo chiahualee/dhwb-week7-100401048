@@ -1,0 +1,22 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background-image: url("../img/bg.jpg")
+
+}
+
+
+#username{
+	 width:300px; margin: 0 auto;margin-bottom: 1%
+}
+#button{width:300px; margin: 0 auto;}
+a {
+  color: #00B7FF;
+
+}
+
+
+#hello{text-align: center;
+	font-weight: bold;
+	font-size: 20px
+}
